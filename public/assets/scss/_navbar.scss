@@ -2,6 +2,13 @@
 .navbar-brand{
   position: relative;
   padding: 0px;
+  p {
+    display: inline;
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    color: #000 !important;
+    font-family: 'Arvo', serif;
+  }
 }
 .top-nav-collapse{
   background: #fff;
@@ -206,4 +213,3 @@
   -webkit-animation-name: fadeInUpMenu;
   animation-name: fadeInUpMenu;
 }
-
